@@ -4,8 +4,11 @@ a
 }
 body
 {
-  margin: 10;
-  background-color: #eeeeee;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    background-color: #eeeeee;
 }
 .body
 {
